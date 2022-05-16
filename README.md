@@ -1,6 +1,6 @@
 # Curso de TDD e Java: testes automatizados com JUnit
 
-[Curso de Testes Unitários com Junit/Java da formação Java/Alura](https://cursos.alura.com.br/course/tdd-java-testes-automatizados-junit)
+[Curso de Testes Unitários com Junit/Java da formação Java Testes/Alura](https://cursos.alura.com.br/course/tdd-java-testes-automatizados-junit)
 
 [Principal](https://github.com/pvreboucas/java-tdd-junit)
 
